@@ -1,9 +1,0 @@
-Manifest-Version: 1.0
-Class-Path: opus-java-natives-1.0.4.jar slf4j-api-1.7.25.jar json-2016
- 0810.jar commons-collections4-4.1.jar slf4j-simple-1.7.5.jar opus-jav
- a-api-1.0.4.jar trove4j-3.0.3.jar commons-io-2.6.jar json-io-4.10.1.j
- ar junit-4.10.jar okhttp-3.8.1.jar jsr305-3.0.2.jar annotations-16.0.
- 1.jar json-simple-1.1.1.jar jna-4.4.0.jar nv-websocket-client-2.5.jar
-  hamcrest-core-1.1.jar JDA-3.8.0_423.jar okio-1.13.0.jar
-Main-Class: cdcl.bot.core.DiscordBot
-
