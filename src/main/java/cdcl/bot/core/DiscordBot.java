@@ -27,9 +27,7 @@ public class DiscordBot {
     private final String officialToken = "StopTryingToFigureOutMyTokens ;)";
     //Text Declarations
     public char prefix = '!';
-    //public String rootDir = "/Users/j_heravi/Desktop/tempData/";
-    public String rootDir = "D:\\Coding\\Java\\CWDL\\Data\\data\\";
-    //public String rootDir = File.separator + "root" + File.separator + "data" + File.separator;
+    public String rootDir = File.separator + "root" + File.separator + "data" + File.separator;
     public String teamsDir = rootDir + File.separator + "teamlist" + File.separator;
     public RosterManager rosterManager = new RosterManager();
     public CommandManager cmdManager = new CommandManager();
